@@ -1,0 +1,14 @@
+{ "type" :"commonjs",
+  "name": "mongoose-update-delete-and-read",
+  "version": "1.0.0",
+  "description": "mongoose crud opratiob 16/12/23 8:44 PM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Developer Jaimin Mevada",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.0.3"
+  }
+}

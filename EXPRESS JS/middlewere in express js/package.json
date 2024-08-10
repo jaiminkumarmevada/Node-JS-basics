@@ -1,0 +1,14 @@
+{ "type":"commonjs",
+  "name": "middlewere-in-express-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Developer Jaimin Mevada",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

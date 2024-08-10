@@ -1,0 +1,15 @@
+{ "type": "commonjs",
+  "name": "rendring-html-with-database",
+  "version": "1.0.0",
+  "description": "render array data in ejs file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Developer Jaimin Mevada",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}

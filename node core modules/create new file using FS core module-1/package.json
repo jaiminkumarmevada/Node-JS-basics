@@ -1,0 +1,11 @@
+{ "type" :"module",
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaimin Mevada",
+  "license": "ISC"
+}
