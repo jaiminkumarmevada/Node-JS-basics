@@ -1,6 +1,4 @@
-Certainly! Here's a sample README file for a GitHub repository focused on learning Node.js basics through YouTube tutorials:
 
----
 
 # Node.js Basics Tutorial
 
